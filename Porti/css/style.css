@@ -1,0 +1,15 @@
+body{
+  background: #C0C0C0;
+}
+#header a:hover{
+  color: aliceblue;
+}
+#bg-img{
+   
+  background: url('../port4.jpg');
+  background-size: 150%;
+  background-repeat: no-repeat;
+  min-height:  500px; 
+  
+}
+
